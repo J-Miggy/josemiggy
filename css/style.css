@@ -424,6 +424,12 @@ span {
     cursor: pointer;
 }
 
+.contact #msg {
+    color: #61b752;
+    font-size: 2rem;
+    text-align: center;
+}
+
 .footer {
     display: flex;
     justify-content: space-between;
