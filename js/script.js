@@ -39,7 +39,7 @@ navbar.classList.remove('active');
 
 //scroll reveal
 ScrollReveal({ 
-    reset: true,
+    reset: false,
     distance: '80px',
     duration: 1200,
     delay: 200
